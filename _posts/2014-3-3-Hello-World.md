@@ -4,25 +4,25 @@ title: This is my bucket for explaining ...
 published: true
 ---
 
-... about how my home automation all fits together. It includes server monitoring, sensor collection, processing & normalisation, visualizations and alerting.
+... about how my home automation all fits together. It includes server monitoring, sensor collection, processing & normalization, visualizations and alerting.
 
-Servers:
-Home server - RAID-5, Linux
-Virtualization server - ProxMox
+### Servers:
+- Home server - RAID-5, Linux
+- Virtualization server - ProxMox
 
-Sensors:
-Zigbee, using a combination of SmartThings, Xiaomi, Zigbee2MQTT, IKEA, Phillips Hue
+### Sensors:
+- Zigbee, using a combination of SmartThings, Xiaomi, Zigbee2MQTT, IKEA, Philips Hue
 
-Processing:
-SmartThings-MQTT project
-Xiaomi-MQTT project
-Zigbee2MQTT project
-Node-Red
-Telegraf
+### Processing:
+- SmartThings-MQTT project
+- Xiaomi-MQTT project
+- Zigbee2MQTT project
+- Node-Red
+- Telegraf
 
-Databases:
-MariaDB
-InfluxDB
+### Databases:
+- MariaDB
+- InfluxDB
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
