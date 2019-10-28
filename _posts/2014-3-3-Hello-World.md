@@ -11,7 +11,12 @@ published: true
 - Virtualization server - ProxMox
 
 ### Sensors:
-- Zigbee, using a combination of SmartThings, Xiaomi, Zigbee2MQTT, IKEA, Philips Hue
+- Zigbee
+-- SmartThings
+-- Xiaomi
+-- Zigbee2MQTT
+-- IKEA
+-- Philips Hue
 
 ### Processing:
 - SmartThings-MQTT project
