@@ -150,25 +150,29 @@ As this is a LXC container, and I want to monitor all my containers, I should ad
 ```
 
 /etc/telegraf/telegraf.d/net.conf
-```'# Read metrics about network interface usage
+```
+# Read metrics about network interface usage
 [[inputs.net]]
 
 ```
 
 /etc/telegraf/telegraf.d/processes.conf
-```'# Get the number of processes and group them by status
+```
+# Get the number of processes and group them by status
 [[inputs.processes]]
   # no configuration
 ```
 
 /etc/telegraf/telegraf.d/swap.conf
-```'# Read metrics about swap memory usage
+```
+# Read metrics about swap memory usage
 [[inputs.swap]]
   # no configuration
 ```
 
 /etc/telegraf/telegraf.d/system.conf
-```'# Read metrics about system load & uptime
+```
+# Read metrics about system load & uptime
 [[inputs.system]]
   ## Uncomment to remove deprecated metrics.
   # fielddrop = ["uptime_format"]
