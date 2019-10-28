@@ -47,7 +47,7 @@ published: true
 
 
 Ok, at this stage, it's probably better to give an infographic rather than all these words
-![infographic]({{ site.baseurl }}/images/infographic.png)
+![_infographic]({{ site.baseurl }}/images/infographic.png)
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
