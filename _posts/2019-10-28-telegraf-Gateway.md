@@ -1,6 +1,10 @@
 ---
 published: false
 ---
+---
+layout: post
+title: Using a Telegraf Gateway
+---
 ## Using a Telegraf Gateway
 
 All my servers and sensors will be visualized in InfluxDB. They can all write directly into my local instance of InfluxDB OSS, but I also want to be able to write to remote instances, such as Influx Cloud. To do this, there are some limitations:
