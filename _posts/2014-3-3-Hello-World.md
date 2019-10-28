@@ -12,11 +12,11 @@ published: true
 
 ### Sensors:
 - Zigbee
-⋅⋅* SmartThings
-⋅⋅* Xiaomi
-⋅⋅* Zigbee2MQTT
-⋅⋅* IKEA
-⋅⋅* Philips Hue
+   - SmartThings
+   - Xiaomi
+   - Zigbee2MQTT
+   - IKEA
+   - Philips Hue
 
 ### Processing:
 - SmartThings-MQTT project
